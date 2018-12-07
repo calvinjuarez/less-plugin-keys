@@ -1,0 +1,25 @@
+{
+  "name": "less-plugin-keys",
+  "version": "0.0.0",
+  "description": "A Less utility function `keys()` for getting the properties of a ruleset as a list.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calvinjuarez/less-plugin-keys.git"
+  },
+  "keywords": [
+    "less",
+    "plugin",
+    "keys",
+    "maps"
+  ],
+  "author": "Calvin Juárez <calvin.juarez+npm@gmail.com> (http://calvinjuarez.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/calvinjuarez/less-plugin-keys/issues"
+  },
+  "homepage": "https://github.com/calvinjuarez/less-plugin-keys#readme"
+}
