@@ -1,6 +1,6 @@
 {
   "name": "less-plugin-keys",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A Less utility function `keys()` for getting the properties of a ruleset as a list.",
   "main": "index.js",
   "scripts": {
